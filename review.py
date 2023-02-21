@@ -6,6 +6,7 @@ import time
 from helpers import helper
 from logger import iLog 
 import re
+import validator
     
 # get the base directory to files that will be processed  
 def getBaseDirectory()->any:
@@ -59,33 +60,13 @@ def validateColumns(data_file_columns_length, file_type):
         return True
     return False
 
-# validation for individual borrower
-def validation_1(data_file):
-    # check validation rules
-    
-    return True
-
-# validation for Credit Information
-def validation_2(data_file):
-    return True
-
-# validation for Corporate Borrower Information
-def validation_3(data_file):
-    return True
-
-# validation for Guarantor Information
-def validation_4(data_file):
-    return True
-
-# validation for Principal Template
-def validation_5(data_file):
-    return True
-
 # validate and review file based on rules
 def review_file(data_file,file_type)->any:
-    dict_of_validation_rules = {"Individual Borrower":validation_1(data_file),"Credit Information": validation_2(data_file), 
-                               "Corporate Borrower Information":validation_3(data_file),
-                               "Guarantor Information":validation_4(data_file),"Principal Template": validation_5(data_file)}
+    dict_of_validation_rules = {"Individual Borrower":validator.validation_1(data_file),
+                                "Credit Information": validator.validation_2(data_file), 
+                               "Corporate Borrower Information":validator.validation_3(data_file),
+                               "Guarantor Information":validator.validation_4(data_file),
+                               "Principal Template": validator.validation_5(data_file)}
     validation_result = dict_of_validation_rules[file_type]    
     return True
 
