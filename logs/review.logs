@@ -1,0 +1,190 @@
+2023-02-20 18:30:02,945 filename: JAN_MFI_DATA_CAPTURING_CONSUMER_TEMPLATE___NPF_MICROFINANCE_BAN-2ABL100133-18-02-2023.xlsx
+Error: Can't find workbook in OLE2 compound document
+-----------------------------------------------
+
+2023-02-20 18:30:03,925 file Name: /Users/iyedeisaiah/Desktop/allfiles2/projects/crc_files_review/filesToprocess/crc_Uniform_Consumer_ijaremfbank_ltd_as_at_Jan_31_2023___IJARE_MICROFINANCE_B-2ABL100306-17-02-2023.xlsx
+Sheet Name: Catalogues
+Columns: Index(['B', 'STATE ', 'Unnamed: 2', 'C', 'TITLE', 'Unnamed: 5', 'Unnamed: 6',
+       'Unnamed: 7', 'Unnamed: 8'],
+      dtype='object')
+                    No of Columns: 9
+file type: False
+                    -------------------------------------------------------
+2023-02-20 18:30:03,925 filename: .DS_Store
+Error: local variable 'file_obj' referenced before assignment
+-----------------------------------------------
+
+2023-02-20 18:30:03,980 filename: CRC_Common_Data_Submissin_for_January_Cornerblock_Services_Ltd___CORNERBLOCK_SERVICES_LIMITED-2AFL101532-17-02-2023.xlsx
+Error: 'ReadOnlyWorksheet' object has no attribute 'defined_names'
+-----------------------------------------------
+
+2023-02-20 18:30:05,334 file Name: /Users/iyedeisaiah/Desktop/allfiles2/projects/crc_files_review/filesToprocess/January_2023_Standard_CreditBureauInfo___STANDARD_LINK_CONTIN-2ABL100886-17-02-2023.xlsx
+Sheet Name: Principal Officers Template
+Columns: Index(['Customer ID', 'Principal Officer 1 Surname',
+       'Principal Officer 1 Firstname', 'Principal Officer 1 Middlename',
+       'Date Of Birth', 'Gender', 'Primary Address Line 1',
+       'Primary Address Line 2', 'City', 'State', 'Country', 'National ID',
+       'Drivers License No', 'BVN No', 'Passport No', 'Phone No1',
+       'E-mail Address', 'Position in Business', 'Principal Officer 2 Surname',
+       'Principal Officer 2 Firstname', 'Principal Officer 2 Middlename',
+       'Date Of Birth.1', 'Gender.1', 'Primary Address Line 1.1',
+       'Primary Address Line 2.1', 'City.1', 'State.1', 'Country.1',
+       'National ID.1', 'Drivers License No.1', 'BVN No.1', 'Passport No.1',
+       'Phone No1.1', 'E-mail Address.1', 'Position in Business.1'],
+      dtype='object')
+                    No of Columns: 35
+file type: Principal Template
+                    -------------------------------------------------------
+2023-02-20 18:30:07,692 file Name: /Users/iyedeisaiah/Desktop/allfiles2/projects/crc_files_review/filesToprocess/CREDIT_BUREAU_FOR_JAN_2023___HILLTRUST_GLOBAL-2ABL101170-17-02-2023.xlsx
+Sheet Name: Individual Borrower
+Columns: Index(['CustomerID ', 'Branch Code', 'Surname', 'First name', 'Middle name',
+       'Date of Birth', 'National Identity Number', 'Drivers License No',
+       'BVN No', 'Passport No',
+       ...
+       'Unnamed: 156', 'Unnamed: 157', 'Unnamed: 158', 'Unnamed: 159',
+       'Unnamed: 160', 'Unnamed: 161', 'Unnamed: 162', 'Unnamed: 163',
+       'Unnamed: 164', 'Unnamed: 165'],
+      dtype='object', length=166)
+                    No of Columns: 166
+file type: Individual Borrower
+                    -------------------------------------------------------
+2023-02-20 18:30:09,107 file Name: /Users/iyedeisaiah/Desktop/allfiles2/projects/crc_files_review/filesToprocess/CREDIT_BUREAU_FOR_JAN_2023___HILLTRUST_GLOBAL-2ABL101170-17-02-2023.xlsx
+Sheet Name: Catalogues
+Columns: Index(['B', 'STATE ', 'Unnamed: 2', 'C', 'TITLE', 'Unnamed: 5', 'Unnamed: 6',
+       'Unnamed: 7', 'Unnamed: 8'],
+      dtype='object')
+                    No of Columns: 9
+file type: False
+                    -------------------------------------------------------
+2023-02-20 18:30:09,159 filename: Data_Template_JAN_23_CO___CASHVANCE_SOLUTIONS-2ABL101246-17-02-2023.xlsx
+Error: 'ReadOnlyWorksheet' object has no attribute 'defined_names'
+-----------------------------------------------
+
+2023-02-20 18:30:09,358 file Name: /Users/iyedeisaiah/Desktop/allfiles2/projects/crc_files_review/filesToprocess/crc_Uniform_Corporate_ijaremfbank_ltd_as_at_Jan_31_2023___IJARE_MICROFINANCE_B-2ABL100306-17-02-2023.xlsx
+Sheet Name: Catalogues
+Columns: Index(['B', 'STATE ', 'Unnamed: 2', 'C', 'TITLE', 'Unnamed: 5', 'Unnamed: 6',
+       'Unnamed: 7', 'Unnamed: 8'],
+      dtype='object')
+                    No of Columns: 9
+file type: False
+                    -------------------------------------------------------
+2023-02-20 18:30:09,399 file Name: /Users/iyedeisaiah/Desktop/allfiles2/projects/crc_files_review/filesToprocess/crc_Uniform_Corporate_ijaremfbank_ltd_as_at_Jan_31_2023___IJARE_MICROFINANCE_B-2ABL100306-17-02-2023.xlsx
+Sheet Name: Sheet1
+Columns: Index([], dtype='object')
+                    No of Columns: 0
+file type: False
+                    -------------------------------------------------------
+2023-02-20 18:30:09,442 file Name: /Users/iyedeisaiah/Desktop/allfiles2/projects/crc_files_review/filesToprocess/crc_Uniform_Corporate_ijaremfbank_ltd_as_at_Jan_31_2023___IJARE_MICROFINANCE_B-2ABL100306-17-02-2023.xlsx
+Sheet Name: Sheet2
+Columns: Index([], dtype='object')
+                    No of Columns: 0
+file type: False
+                    -------------------------------------------------------
+2023-02-20 18:30:09,559 filename: PHEDC_CRC_CREDIT_BUREAU_DATA_JANUARY_2023___PORT_HARCOURT_ELECTR-2A7L100267-18-02-2023.xlsx
+Error: 'ReadOnlyWorksheet' object has no attribute 'defined_names'
+-----------------------------------------------
+
+2023-02-20 18:30:09,625 filename: Data_Template_JAN_23_PA___CASHVANCE_SOLUTIONS-2ABL101246-17-02-2023.xlsx
+Error: 'ReadOnlyWorksheet' object has no attribute 'defined_names'
+-----------------------------------------------
+
+2023-02-20 18:30:09,626 filename: errors
+Error: list index out of range
+-----------------------------------------------
+
+2023-02-20 19:41:27,174 filename: JAN_MFI_DATA_CAPTURING_CONSUMER_TEMPLATE___NPF_MICROFINANCE_BAN-2ABL100133-18-02-2023.xlsx
+Error: Can't find workbook in OLE2 compound document
+-----------------------------------------------
+
+2023-02-20 19:41:27,417 filename: crc_Uniform_Consumer_ijaremfbank_ltd_as_at_Jan_31_2023___IJARE_MICROFINANCE_B-2ABL100306-17-02-2023.xlsx
+Error: log_to_logger_file() missing 5 required positional arguments: 'file', 'sheet', 'columns', 'len_data_file', and 'file_type'
+-----------------------------------------------
+
+2023-02-20 19:41:27,418 filename: .DS_Store
+Error: local variable 'file_obj' referenced before assignment
+-----------------------------------------------
+
+2023-02-20 19:41:27,462 filename: CRC_Common_Data_Submissin_for_January_Cornerblock_Services_Ltd___CORNERBLOCK_SERVICES_LIMITED-2AFL101532-17-02-2023.xlsx
+Error: 'ReadOnlyWorksheet' object has no attribute 'defined_names'
+-----------------------------------------------
+
+2023-02-20 19:41:27,522 filename: FINTRAK_subject_file-CORP___FIRST_BANK_OF_NIGERI-1A0L200011-17-02-2023.xlsx
+Error: log_to_logger_file() missing 5 required positional arguments: 'file', 'sheet', 'columns', 'len_data_file', and 'file_type'
+-----------------------------------------------
+
+2023-02-20 19:41:27,769 filename: January_2023_Standard_CreditBureauInfo___STANDARD_LINK_CONTIN-2ABL100886-17-02-2023.xlsx
+Error: log_to_logger_file() missing 5 required positional arguments: 'file', 'sheet', 'columns', 'len_data_file', and 'file_type'
+-----------------------------------------------
+
+2023-02-20 19:41:28,106 filename: CREDIT_BUREAU_FOR_JAN_2023___HILLTRUST_GLOBAL-2ABL101170-17-02-2023.xlsx
+Error: log_to_logger_file() missing 5 required positional arguments: 'file', 'sheet', 'columns', 'len_data_file', and 'file_type'
+-----------------------------------------------
+
+2023-02-20 19:41:28,173 filename: Data_Template_JAN_23_CO___CASHVANCE_SOLUTIONS-2ABL101246-17-02-2023.xlsx
+Error: 'ReadOnlyWorksheet' object has no attribute 'defined_names'
+-----------------------------------------------
+
+2023-02-20 19:41:28,236 filename: crc_Uniform_Corporate_ijaremfbank_ltd_as_at_Jan_31_2023___IJARE_MICROFINANCE_B-2ABL100306-17-02-2023.xlsx
+Error: log_to_logger_file() missing 5 required positional arguments: 'file', 'sheet', 'columns', 'len_data_file', and 'file_type'
+-----------------------------------------------
+
+2023-02-20 19:41:28,388 filename: PHEDC_CRC_CREDIT_BUREAU_DATA_JANUARY_2023___PORT_HARCOURT_ELECTR-2A7L100267-18-02-2023.xlsx
+Error: 'ReadOnlyWorksheet' object has no attribute 'defined_names'
+-----------------------------------------------
+
+2023-02-20 19:41:28,442 filename: Data_Template_JAN_23_PA___CASHVANCE_SOLUTIONS-2ABL101246-17-02-2023.xlsx
+Error: 'ReadOnlyWorksheet' object has no attribute 'defined_names'
+-----------------------------------------------
+
+2023-02-20 19:41:28,442 filename: errors
+Error: list index out of range
+-----------------------------------------------
+
+2023-02-20 19:41:46,313 filename: JAN_MFI_DATA_CAPTURING_CONSUMER_TEMPLATE___NPF_MICROFINANCE_BAN-2ABL100133-18-02-2023.xlsx
+Error: Can't find workbook in OLE2 compound document
+-----------------------------------------------
+
+2023-02-20 19:41:46,507 filename: crc_Uniform_Consumer_ijaremfbank_ltd_as_at_Jan_31_2023___IJARE_MICROFINANCE_B-2ABL100306-17-02-2023.xlsx
+Error: log_to_logger_file() missing 5 required positional arguments: 'file', 'sheet', 'columns', 'len_data_file', and 'file_type'
+-----------------------------------------------
+
+2023-02-20 19:41:46,508 filename: .DS_Store
+Error: local variable 'file_obj' referenced before assignment
+-----------------------------------------------
+
+2023-02-20 19:41:46,547 filename: CRC_Common_Data_Submissin_for_January_Cornerblock_Services_Ltd___CORNERBLOCK_SERVICES_LIMITED-2AFL101532-17-02-2023.xlsx
+Error: 'ReadOnlyWorksheet' object has no attribute 'defined_names'
+-----------------------------------------------
+
+2023-02-20 19:41:46,599 filename: FINTRAK_subject_file-CORP___FIRST_BANK_OF_NIGERI-1A0L200011-17-02-2023.xlsx
+Error: log_to_logger_file() missing 5 required positional arguments: 'file', 'sheet', 'columns', 'len_data_file', and 'file_type'
+-----------------------------------------------
+
+2023-02-20 19:41:46,797 filename: January_2023_Standard_CreditBureauInfo___STANDARD_LINK_CONTIN-2ABL100886-17-02-2023.xlsx
+Error: log_to_logger_file() missing 5 required positional arguments: 'file', 'sheet', 'columns', 'len_data_file', and 'file_type'
+-----------------------------------------------
+
+2023-02-20 19:41:47,096 filename: CREDIT_BUREAU_FOR_JAN_2023___HILLTRUST_GLOBAL-2ABL101170-17-02-2023.xlsx
+Error: log_to_logger_file() missing 5 required positional arguments: 'file', 'sheet', 'columns', 'len_data_file', and 'file_type'
+-----------------------------------------------
+
+2023-02-20 19:41:47,159 filename: Data_Template_JAN_23_CO___CASHVANCE_SOLUTIONS-2ABL101246-17-02-2023.xlsx
+Error: 'ReadOnlyWorksheet' object has no attribute 'defined_names'
+-----------------------------------------------
+
+2023-02-20 19:41:47,206 filename: crc_Uniform_Corporate_ijaremfbank_ltd_as_at_Jan_31_2023___IJARE_MICROFINANCE_B-2ABL100306-17-02-2023.xlsx
+Error: log_to_logger_file() missing 5 required positional arguments: 'file', 'sheet', 'columns', 'len_data_file', and 'file_type'
+-----------------------------------------------
+
+2023-02-20 19:41:47,343 filename: PHEDC_CRC_CREDIT_BUREAU_DATA_JANUARY_2023___PORT_HARCOURT_ELECTR-2A7L100267-18-02-2023.xlsx
+Error: 'ReadOnlyWorksheet' object has no attribute 'defined_names'
+-----------------------------------------------
+
+2023-02-20 19:41:47,413 filename: Data_Template_JAN_23_PA___CASHVANCE_SOLUTIONS-2ABL101246-17-02-2023.xlsx
+Error: 'ReadOnlyWorksheet' object has no attribute 'defined_names'
+-----------------------------------------------
+
+2023-02-20 19:41:47,413 filename: errors
+Error: list index out of range
+-----------------------------------------------
+

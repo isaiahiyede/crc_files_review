@@ -1,0 +1,36 @@
+filename: JAN_MFI_DATA_CAPTURING_CONSUMER_TEMPLATE___NPF_MICROFINANCE_BAN-2ABL100133-18-02-2023.xlsx
+Error: Can't find workbook in OLE2 compound document
+-----------------------------------------------
+filename: crc_Uniform_Consumer_ijaremfbank_ltd_as_at_Jan_31_2023___IJARE_MICROFINANCE_B-2ABL100306-17-02-2023.xlsx
+Error: log_to_logger_file() missing 5 required positional arguments: 'file', 'sheet', 'columns', 'len_data_file', and 'file_type'
+-----------------------------------------------
+filename: .DS_Store
+Error: local variable 'file_obj' referenced before assignment
+-----------------------------------------------
+filename: CRC_Common_Data_Submissin_for_January_Cornerblock_Services_Ltd___CORNERBLOCK_SERVICES_LIMITED-2AFL101532-17-02-2023.xlsx
+Error: 'ReadOnlyWorksheet' object has no attribute 'defined_names'
+-----------------------------------------------
+filename: FINTRAK_subject_file-CORP___FIRST_BANK_OF_NIGERI-1A0L200011-17-02-2023.xlsx
+Error: log_to_logger_file() missing 5 required positional arguments: 'file', 'sheet', 'columns', 'len_data_file', and 'file_type'
+-----------------------------------------------
+filename: January_2023_Standard_CreditBureauInfo___STANDARD_LINK_CONTIN-2ABL100886-17-02-2023.xlsx
+Error: log_to_logger_file() missing 5 required positional arguments: 'file', 'sheet', 'columns', 'len_data_file', and 'file_type'
+-----------------------------------------------
+filename: CREDIT_BUREAU_FOR_JAN_2023___HILLTRUST_GLOBAL-2ABL101170-17-02-2023.xlsx
+Error: log_to_logger_file() missing 5 required positional arguments: 'file', 'sheet', 'columns', 'len_data_file', and 'file_type'
+-----------------------------------------------
+filename: Data_Template_JAN_23_CO___CASHVANCE_SOLUTIONS-2ABL101246-17-02-2023.xlsx
+Error: 'ReadOnlyWorksheet' object has no attribute 'defined_names'
+-----------------------------------------------
+filename: crc_Uniform_Corporate_ijaremfbank_ltd_as_at_Jan_31_2023___IJARE_MICROFINANCE_B-2ABL100306-17-02-2023.xlsx
+Error: log_to_logger_file() missing 5 required positional arguments: 'file', 'sheet', 'columns', 'len_data_file', and 'file_type'
+-----------------------------------------------
+filename: PHEDC_CRC_CREDIT_BUREAU_DATA_JANUARY_2023___PORT_HARCOURT_ELECTR-2A7L100267-18-02-2023.xlsx
+Error: 'ReadOnlyWorksheet' object has no attribute 'defined_names'
+-----------------------------------------------
+filename: Data_Template_JAN_23_PA___CASHVANCE_SOLUTIONS-2ABL101246-17-02-2023.xlsx
+Error: 'ReadOnlyWorksheet' object has no attribute 'defined_names'
+-----------------------------------------------
+filename: errors
+Error: list index out of range
+-----------------------------------------------
