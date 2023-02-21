@@ -61,7 +61,8 @@ def validateColumns(data_file_columns_length, file_type):
 
 # validation for individual borrower
 def validation_1(data_file):
-    # check column names
+    # check validation rules
+    
     return True
 
 # validation for Credit Information
